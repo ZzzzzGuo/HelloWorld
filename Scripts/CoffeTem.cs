@@ -37,6 +37,10 @@ public class CoffeTem : MonoBehaviour
         {
             Detect();
         }
+        if (Input.GetMouseButtonUp(2))
+        {
+            Debug.Log("Test!");
+        }
 
     }
 }
