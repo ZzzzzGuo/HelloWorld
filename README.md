@@ -1,4 +1,4 @@
-T# Unity Official Tutorial Scripting Practice
+Unity Official Tutorial Scripting Practice
 
 The files' name staring with "Z" is the name of files which are totally created by me with no reference.
 
